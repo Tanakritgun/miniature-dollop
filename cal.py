@@ -8,4 +8,7 @@ def cal(num1,num2):
 def summation(n1, n2):
 	return n1+ n2
 
+def test():
+	print("I'm Gun")
+
 cal(int(input()), int(input()))
